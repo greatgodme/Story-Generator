@@ -1,0 +1,8 @@
+Notice for markovify library
+
+This project uses the markovify library, which is licensed under the MIT License.
+
+Copyright (c) 2013-2019 Jason Kottke
+
+For more information about the markovify library and its license, please visit:
+https://github.com/jsvine/markovify
