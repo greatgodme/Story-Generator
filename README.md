@@ -1,5 +1,5 @@
 # Story-Generator
-This project is a story generator that uses the markovify library to generate text based on a provided input corpus.
+This project is a story generator that uses the markovify library to generate text based on a provided input file.
 
 # Installation
    
